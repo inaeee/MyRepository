@@ -3,7 +3,8 @@ public class A {
 
 	public static void main(String[] args) {
 		System.out.println("Hi, i'm A.");
-
+		B btest=new B();
+		btest.sayB();
 	}
 
 }
